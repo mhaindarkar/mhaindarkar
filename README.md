@@ -41,10 +41,10 @@ End-to-end computational protein design workflow combining:
 
 ## Supporting Projects
 
-- Protein Design Evaluation using ESM (protein language models)
-- RFdiffusion De Novo Monomer Pipeline (generative protein backbones)
-- Mutation Effect Prediction (structure-aware mutation analysis)
-- Nextflow Hepatitis Alignment Pipeline (workflow engineering)
+- Protein Design Evaluation using ESM (protein language models) - https://github.com/mhaindarkar/protein-design-evaluation-esm
+- RFdiffusion De Novo Monomer Pipeline (generative protein backbones) - https://github.com/mhaindarkar/rfdiffusion-de-novo-monomer-pipeline
+- Mutation Effect Prediction (structure-aware mutation analysis) - https://github.com/mhaindarkar/mutation-effect-prediction
+- Nextflow Hepatitis Alignment Pipeline (workflow engineering) - https://github.com/mhaindarkar/hepatitis-alignment-pipeline
 
 ---
 
